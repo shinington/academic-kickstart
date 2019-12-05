@@ -62,9 +62,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
 
----
 title: "Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversarial Reinforcement Learning
 "
 authors:
@@ -128,5 +126,8 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
 ---
+
+
 
