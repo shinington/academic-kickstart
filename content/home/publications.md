@@ -81,6 +81,6 @@ ML system designers. My research addresses these challenges by designing robust 
 ML models, and robust alert prioritization. Through continuous research in this field, I envision
 robust end-to-end and multi-scale ML-based detection systems.
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+# {{% alert note %}}
+# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+# {{% /alert %}}
