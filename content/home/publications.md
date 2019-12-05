@@ -67,10 +67,7 @@ subtitle = ""
 +++
 
 Machine learning (ML) has been widely used in security applications such as anomaly and malware
-detection. A general approach is to extract a set of features of entities in question, collect
-a training data set of labeled examples, learn a model which labels previously unseen instances
-which are presented in terms of their extracted features, and investigate alerts corresponding to
-instances predicted as malicious. Despite the striking success of ML in security applications, security
+detection. Despite the striking success of ML in security applications, security
 issues emerge from the full pipeline of ML-based detection systems. First, ML models are often
 susceptible to evasion attacks, in which an adversary makes changes to the input (such as
 malware) to avoid being detected. Second, using detection systems in practice is in dealing with an
