@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:liangtong@wustl.edu".
+  link: 'mailto:liangtong@wustl.edu'  # For a direct email link, use "mailto:liangtong@wustl.edu".
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -74,5 +74,5 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in the Computer Science and Engineering Department at Washington University in St. Louis, advised by Professor [Yevgeniy Vorobeychik](https://vorobeychik.com/). My primary research interests are at the intersection of machine learning and computer security. 
+I am a Ph.D. student in the Computer Science & Engineering Department at Washington University in St. Louis, advised by Professor [Yevgeniy Vorobeychik](https://vorobeychik.com/). My primary research interests are at the intersection of machine learning and computer security. 
 
