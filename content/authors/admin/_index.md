@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-# role: Professor of Artificial Intelligence
+role: Ph.D. student in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Adversarial Machine Learning
+- Machine Learning
 - Data-driven Security
 - Artificial Intelligence
 - Mobile Cloud Computing
@@ -44,11 +44,11 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:liangtong@wustl.edu" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:liangtong@wustl.edu".
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -74,6 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Ph.D. student in Computer Science at the Computer Science and Engineering Department at Washington University in St. Louis, advised by Professor Yevgeniy Vorobeychik. My primary research interests are at the intersection of machine learning and computer security. 
