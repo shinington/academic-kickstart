@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Liang Tong (童亮)
+name: Liang Tong 
 
 # Username (this should match the folder name)
 authors:
