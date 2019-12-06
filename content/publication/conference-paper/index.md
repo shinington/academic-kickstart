@@ -1,9 +1,9 @@
 ---
 title: "Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversarial Reinforcement Learning
 "
-authors:
-- admin
-- Aron Laszka, Chao Yan, Ning Zhang, Yevgeniy Vorobeychik
+authors: Liang Tong, Aron Laszka, Chao Yan, Ning Zhang, Yevgeniy Vorobeychik
+# - admin
+# - 
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -23,7 +23,7 @@ publication_short: In *AAAI*
 abstract: Detection of malicious behavior is a fundamental problem in security. One of the major challenges in using detection systems in practice is in dealing with an overwhelming number of alerts that are triggered by normal behavior (the so-called false positives), obscuring alerts resulting from actual malicious activities. We introduce a novel approach for computing a policy for prioritizing alerts using adversarial reinforcement learning. Our approach assumes that the attacker knows the full state of the detection system and the defender's alert prioritization policy, and will dynamically choose an optimal attack. The first step of our approach is to capture the interaction between the defender and attacker in a game theoretic model. To tackle the computational complexity of solving this game to obtain a dynamic stochastic alert prioritization policy, we propose an adversarial reinforcement learning framework. In this framework, we use neural reinforcement learning to compute best response policies for both the defender and the adversary to an arbitrary stochastic policy of the other. We then use these in a double-oracle framework to obtain an approximate equilibrium of the game, which in turn yields a robust stochastic policy for the defender. We use case studies in network intrusion and fraud detection to demonstrate that our approach is effective in creating robust alert prioritization policies.
 
 # Summary. An optional shortened abstract.
-summary: We study the problem of deciding which of a large number of alerts to choose for further investigation where only a small subset can ever be closely examined -- often a necessary step in the detection pipeline.
+summary: 34th AAAI Conference on Artificial Intelligence (AAAI'20)
 
 tags:
 - Source Themes
