@@ -3,7 +3,8 @@ title: "Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversari
 "
 authors: 
 - admin
-- Aron Laszka, Chao Yan, Ning Zhang, Yevgeniy Vorobeychik
+- [Aron Laszka]http://aronlaszka.com/]
+
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
