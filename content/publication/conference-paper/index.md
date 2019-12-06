@@ -2,8 +2,7 @@
 title: "Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversarial Reinforcement Learning
 "
 authors: 
-- admin
-- [Aron Laszka]http://aronlaszka.com/]
+- admin, Aron
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
