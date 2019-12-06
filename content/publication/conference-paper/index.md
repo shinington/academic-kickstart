@@ -1,9 +1,9 @@
 ---
 title: "Finding Needles in a Moving Haystack: Prioritizing Alerts with Adversarial Reinforcement Learning
 "
-authors: Liang Tong, Aron Laszka, Chao Yan, Ning Zhang, Yevgeniy Vorobeychik
-# - admin
-# - 
+authors: 
+- admin
+- Aron Laszka, Chao Yan, Ning Zhang, Yevgeniy Vorobeychik
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
