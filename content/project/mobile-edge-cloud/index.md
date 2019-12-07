@@ -7,7 +7,7 @@ authors: []
 tags: 
  - Mobile Cloud Computing
 categories: []
-date: 2019-12-06T13:32:42-06:00
+date: 2015-07-31T13:32:42-06:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
