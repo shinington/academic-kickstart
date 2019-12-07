@@ -24,7 +24,6 @@ interests:
 - Machine Learning
 - Data-driven Security
 - Artificial Intelligence
-- Mobile Cloud Computing
 
 education:
   courses:
