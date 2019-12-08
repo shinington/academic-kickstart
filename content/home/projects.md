@@ -98,8 +98,7 @@ susceptible to evasion attacks, in which an adversary makes changes to the input
 malware) to avoid being detected. Second, using detection systems in practice is in dealing with an
 overwhelming number of alerts that are triggered by normal behavior (the so-called false positives),
 obscuring alerts resulting from actual malicious activities. Third, adversaries can target a
-broad array of ML-based detection systems to maximize impact, which is often ignored by individual
-ML system designers. My research addresses these challenges by designing robust features, robust
+broad array of ML-based detection systems to maximize impact rather than specifically targeted at each independently, but this is generally ignored by individual ML system designers. My research addresses these challenges by designing robust features, robust
 ML models, robust alert prioritization, and robust ML with multiple agents. Through continuous research in this field, I envision
 robust end-to-end and multi-agent ML-based detection systems.
 
