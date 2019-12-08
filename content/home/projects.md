@@ -88,17 +88,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Machine learning (ML) has been widely used in security applications such as anomaly and malware
-detection. A general approach is to extract a set of features of entities in question, collect
-a training data set of labeled examples, learn a model which labels previously unseen instances
-which are presented in terms of their extracted features, and investigate alerts corresponding to
-instances predicted as malicious. Despite the striking success of ML in security applications, security
-issues emerge from the full pipeline of ML-based detection systems. First, ML models are often
-susceptible to evasion attacks, in which an adversary makes changes to the input (such as
-malware) to avoid being detected. Second, using detection systems in practice is in dealing with an
-overwhelming number of alerts that are triggered by normal behavior (the so-called false positives),
-obscuring alerts resulting from actual malicious activities. Third, adversaries can target a
-broad array of ML-based detection systems to maximize impact rather than specifically targeted at each independently, but this is generally ignored by individual ML system designers. My research addresses these challenges by designing robust features, robust
-ML models, robust alert prioritization, and robust ML with multiple agents. Through continuous research in this field, I envision
-robust end-to-end and multi-agent ML-based detection systems.
+Machine learning (ML) has been widely used in security applications such as anomaly and malware detection. However, several security issues emerge from ML-based detection systems. First, ML models are often susceptible to evasion attacks, in which an adversary makes changes to the input (such as malware) to avoid being detected. Second, using detection systems in practice is in dealing with an overwhelming number of alerts that are triggered by normal behavior (the so-called false positives), obscuring alerts resulting from actual malicious activities. Third, adversaries can target a broad array of ML-based detection systems to maximize impact rather than specifically targeted at each independently, but this is generally ignored by individual ML system designers. My research addresses these challenges by designing robust features, robust ML models, robust alert prioritization, and robust ML with multiple agents. Through continuous research in this field, I envision robust end-to-end and multi-agent ML-based detection systems.
 
