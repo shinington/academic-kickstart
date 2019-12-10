@@ -1,31 +1,34 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Defending Against Physically Realizable Attacks on Image Classification"
+title: "A Cooperative-pricing-based Access Selection Mechanism for Vehicular Heterogeneous Networks"
 authors: 
- - Tong Wu
+ - Changyue Liu
+ - Supeng Leng
+ - Kun Yang
  - admin
- - Yevgeniy Vorobeychik
-date: 2019-09-20T21:11:30-06:00
+ - Ke Zhang
+
+date: 2014-08-09T18:19:41-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-12-06T21:11:30-06:00
+publishDate: 2019-12-09T18:19:41-06:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv:1909.09552*
-publication_short: In *arXiv:1909.09552*
+publication: in *Proceedings of the 9th International Conference on Communications and Networking in China (ChinaCom'14)*
+publication_short: in *ChinaCom*
 
-abstract: We study the problem of defending deep neural network approaches for image classification from physically realizable attacks. First, we demonstrate that the two most scalable and effective methods for learning robust models, adversarial training with PGD attacks and randomized smoothing, exhibit very limited effectiveness against three of the highest profile physical attacks. Next, we propose a new abstract adversarial model, rectangular occlusion attacks, in which an adversary places a small adversarially crafted rectangle in an image, and develop two approaches for efficiently computing the resulting adversarial examples. Finally, we demonstrate that adversarial training using our new attack yields image classification models that exhibit high robustness against the physically realizable attacks we study, offering the first effective generic defense against such attacks.
+abstract: Vehicular heterogeneous networks (VHNs) are a special type of wireless vehicular networks. In the VHNs, the nodes choose an access network to download data from the Internet. Most of the existing access network selection mechanisms concentrate on the perspective of individual nodes, only limited work focus on cooperative communications among vehicles. In this paper, a new network selection approach is proposed for vehicles to download data cooperatively in a VHN scenario. The proposed mechanism, namely Cooperative-pricing-based Access Selection Mechanism (CASM), is composed of the cooperative game based pricing strategy and the optimal access node selection algorithm, which are able to minimize access cost and maximize rate-cost ratio. Simulation results demonstrate that our proposed mechanism can ensure the effective data rate while reducing about 40% access costs.
 
 # Summary. An optional shortened abstract.
-summary: In *arXiv:1909.09552*
+summary: in *Proceedings of the 9th International Conference on Communications and Networking in China (ChinaCom'14)*
 
 tags: []
 categories: []
@@ -61,8 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-- robust-ml-on-image-classification
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

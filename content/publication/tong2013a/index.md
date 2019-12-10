@@ -1,31 +1,33 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Defending Against Physically Realizable Attacks on Image Classification"
+title: "A Coalitional Game Theoretical Model for Content Downloading in Multihop VANETs"
 authors: 
- - Tong Wu
  - admin
- - Yevgeniy Vorobeychik
-date: 2019-09-20T21:11:30-06:00
+ - Lixiang Ma
+ - Longjiang Li
+ - Mao Li
+
+date: 2013-12-09T18:19:56-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-12-06T21:11:30-06:00
+publishDate: 2019-12-09T18:19:56-06:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv:1909.09552*
-publication_short: In *arXiv:1909.09552*
+publication: in *Proceedings of the 11th IEEE Conference on Dependable, Autonomic and Secure Computing (DASC'13)*
+publication_short: in *DASC*
 
-abstract: We study the problem of defending deep neural network approaches for image classification from physically realizable attacks. First, we demonstrate that the two most scalable and effective methods for learning robust models, adversarial training with PGD attacks and randomized smoothing, exhibit very limited effectiveness against three of the highest profile physical attacks. Next, we propose a new abstract adversarial model, rectangular occlusion attacks, in which an adversary places a small adversarially crafted rectangle in an image, and develop two approaches for efficiently computing the resulting adversarial examples. Finally, we demonstrate that adversarial training using our new attack yields image classification models that exhibit high robustness against the physically realizable attacks we study, offering the first effective generic defense against such attacks.
+abstract: Vehicular ad hoc networks (VANETs) are viewed as an effective way to disseminate content among vehicles on the road. While most of the current research efforts in VANETs focus on improving the packet delivery performance, only limited work aims to provide cost-efficient solutions for content downloading. This paper proposes a novel approach for the vehicles to download a common content in a cost-efficient way. The basic idea is to stimulate the vehicles to download the content cooperatively in mutually disjoint coalitions. To study the cooperation among the vehicles, a coalitional game model is proposed. Moreover, a distributed coalition formation algorithm is designed to obtain a stable coalition structure and minimize the total communication cost. Numerical results show that the proposed content download approach can achieve a considerable communication cost reduction compared with the non-cooperative case.
 
 # Summary. An optional shortened abstract.
-summary: In *arXiv:1909.09552*
+summary: in *Proceedings of the 11th IEEE Conference on Dependable, Autonomic and Secure Computing (DASC'13)*
 
 tags: []
 categories: []
@@ -61,8 +63,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-- robust-ml-on-image-classification
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

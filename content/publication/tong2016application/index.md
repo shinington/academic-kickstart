@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 35th IEEE Conference on Computer Communications (INFOCOM'16)*
-publication_short: In *INFOCOM'16*
+publication_short: In *INFOCOM*
 
 abstract: Mobile Cloud Computing (MCC) bridges the gap between limited capabilities of mobile devices and the increasing complexity of mobile applications, by offloading the computational workloads from local devices to the cloud. Current research supports workload offloading through appropriate application partitioning and remote method execution, but generally ignores the impact of wireless network characteristics on such offloading. Wireless data transmissions incurred by remote method execution consume a large amount of additional energy during transmission intervals when the network interface stays in the high-power state, and deferring these transmissions increases the response delay of mobile applications. In this paper, we adaptively balance the tradeoff between energy efficiency and responsiveness of mobile applications by developing application-aware wireless transmission scheduling algorithms. We take both causality and run-time dynamics of application method executions into account when deferring wireless transmissions, so as to minimize the wireless energy cost and satisfy the application delay constraint with respect to the practical system contexts. Systematic evaluations show that our scheme significantly improves the energy efficiency of workload offloading over realistic smartphone applications.
 
