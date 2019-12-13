@@ -19,17 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "AAAI"
+  title = "Student Scholar"
+  date_start = "2020-02-06"
+
+[[item]]
   organization = "USENIX Security"
   title = "Student Grant"
   date_start = "2019-08-01"
 
 [[item]]
-  organization = "INCOFOM"
+  organization = "IEEE INCOFOM"
   title = "Student Travel Award"
   date_start = "2016-04-01"
 
 [[item]]
-  organization = "INFOCOM"
+  organization = "IEEE INFOCOM"
   title = "Best Presentation in Session"
   date_start = "2016-04-01"
 
