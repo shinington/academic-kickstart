@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "AAAI"
-  title = "Student Scholar"
+  title = "Student Scholarship"
   date_start = "2020-02-06"
 
 [[item]]
