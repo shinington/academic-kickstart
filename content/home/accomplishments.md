@@ -30,12 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "IEEE INCOFOM"
-  title = "Student Travel Award"
-  date_start = "2016-04-01"
-
-[[item]]
-  organization = "IEEE INFOCOM"
-  title = "Best Presentation in Session"
+  title = "Student Travel Award, Best Presentation in Session"
   date_start = "2016-04-01"
 
 [[item]]
