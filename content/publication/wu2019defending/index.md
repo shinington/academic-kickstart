@@ -6,7 +6,7 @@ authors:
  - Tong Wu
  - admin
  - Yevgeniy Vorobeychik
-date: 2019-09-20T21:11:30-06:00
+date: 2020-05-20T21:11:30-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +19,13 @@ publishDate: 2019-12-06T21:11:30-06:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv:1909.09552*
-publication_short: In *arXiv:1909.09552*
+publication: In *Proceedings of the 8th International Conference on Learning Representations (ICLR'20)*
+publication_short: In *ICLR*
 
 abstract: We study the problem of defending deep neural network approaches for image classification from physically realizable attacks. First, we demonstrate that the two most scalable and effective methods for learning robust models, adversarial training with PGD attacks and randomized smoothing, exhibit very limited effectiveness against three of the highest profile physical attacks. Next, we propose a new abstract adversarial model, rectangular occlusion attacks, in which an adversary places a small adversarially crafted rectangle in an image, and develop two approaches for efficiently computing the resulting adversarial examples. Finally, we demonstrate that adversarial training using our new attack yields image classification models that exhibit high robustness against the physically realizable attacks we study, offering the first effective generic defense against such attacks.
 
 # Summary. An optional shortened abstract.
-summary: In *arXiv:1909.09552*
+summary: In *Proceedings of the 8th International Conference on Learning Representations (ICLR'20)*
 
 tags: []
 categories: []
