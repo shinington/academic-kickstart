@@ -92,5 +92,5 @@ subtitle = ""
  css_class = ""
 +++
 
- # Machine learning (ML) has been widely used in security applications such as anomaly and malware detection. However, when exposed to adversarial behavior, these systems can be fooled and evaded in several ways: First, ML models are often susceptible to evasion attacks, in which an adversary makes changes to the input (such as malware) to avoid being detected. Second, using detection systems in practice is in dealing with an overwhelming number of alerts that are triggered by normal behavior (the so-called false positives), obscuring alerts resulting from actual malicious activities. Third, adversaries can target a broad array of ML-based detection systems to maximize impact rather than specifically targeted at each independently or vice versa, a detection system can be targeted by a collection of adversaries, but these factors are generally ignored by individual ML system designers. My research addresses these challenges by designing *robust features*, *robust ML models*, and *robust alert prioritization* paradigms. Through continuous research in this field, I envision *robust end-to-end ML-based detection systems*.
+
 
