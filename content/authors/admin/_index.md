@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in the Computer Science & Engineering Department at Washington University in St. Louis, advised by Professor [Yevgeniy Vorobeychik](https://vorobeychik.com/). My research interests are machine learning (ML) and computer security. Specifically, I am interested in both ML for security applications and security of ML models themselves.  
+I am a Ph.D. candidate in the Computer Science & Engineering Department at Washington University in St. Louis, advised by Professor [Yevgeniy Vorobeychik](https://vorobeychik.com/). My research interests are machine learning (ML) and computer security. Specifically, I am interested in both ML for security applications and security of ML models themselves.  
 
