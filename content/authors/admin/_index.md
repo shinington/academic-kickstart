@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I have been a research staff member at NEC Labs America since spring 2021. My new webpage is [here](https://liangtong.info/).
+I have been a research staff member in the [Data Science & System Security Department](https://www.nec-labs.com/research-departments/data-science-system-security/data-science-systems-research-home) at [NEC Labs America](https://www.nec-labs.com/) since spring 2021. My new webpage is [here](https://liangtong.info/).
 
 I was a Ph.D. candidate in the Computer Science & Engineering Department at Washington University in St. Louis between 2018 and 2021, advised by Professor [Yevgeniy Vorobeychik](https://vorobeychik.com/). My research interests are machine learning (ML) and computer security. Specifically, I am interested in both ML for security applications and security of ML models themselves.  
 
