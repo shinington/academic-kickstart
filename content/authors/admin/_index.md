@@ -73,5 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in the Computer Science & Engineering Department at Washington University in St. Louis, advised by Professor [Yevgeniy Vorobeychik](https://vorobeychik.com/). My research interests are machine learning (ML) and computer security. Specifically, I am interested in both ML for security applications and security of ML models themselves.  
+I have been a research staff member at NEC Labs America since spring 2021. My new webpage is [here](https://liangtong.info/).
+
+I was a Ph.D. candidate in the Computer Science & Engineering Department at Washington University in St. Louis between 2018 and 2021, advised by Professor [Yevgeniy Vorobeychik](https://vorobeychik.com/). My research interests are machine learning (ML) and computer security. Specifically, I am interested in both ML for security applications and security of ML models themselves.  
 
